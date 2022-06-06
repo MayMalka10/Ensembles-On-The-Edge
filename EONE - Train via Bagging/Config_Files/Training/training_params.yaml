@@ -1,0 +1,18 @@
+Training:
+  pre_trained_path: None
+  num_workers: 8
+  batch_size: 64
+  train_first: True
+  un_quantized_training: False
+  small_train: 8000
+  small_test: 1500
+  lr: 0.0001
+  
+training_debug:
+  pre_trained_path: None
+  num_workers: 0
+  batch_size: 8
+  small_train: 8000
+  un_quantized_training: False
+  small_test: 1500
+  lr: 0.01
