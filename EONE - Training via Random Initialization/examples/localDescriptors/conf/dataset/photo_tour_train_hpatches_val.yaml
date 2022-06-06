@@ -1,0 +1,3 @@
+# @package _global_
+training_set: ['liberty', 'notredame', 'yosemite']
+val_set: 'hpatches_split_illum_test'

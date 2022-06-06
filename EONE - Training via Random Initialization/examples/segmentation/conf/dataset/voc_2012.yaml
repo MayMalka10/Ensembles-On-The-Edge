@@ -1,0 +1,4 @@
+dataset:
+  name: voc
+  year: '2012'
+  num_classes: 21

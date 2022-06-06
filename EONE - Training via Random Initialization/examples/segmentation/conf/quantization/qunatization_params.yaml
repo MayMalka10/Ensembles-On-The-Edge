@@ -1,0 +1,3 @@
+quantization:
+  n_embed: 1024
+  commitment_w: 0.1

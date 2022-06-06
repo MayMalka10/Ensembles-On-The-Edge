@@ -1,0 +1,8 @@
+defaults:
+  - dataset: voc_2012
+  - arch: psp_resnet18
+  - ensemble: ensemble_params
+  - quantization: qunatization_params
+  - training: training_params
+params:
+  data_path: /media/erez/Media/repos/neuralQuantizer/data

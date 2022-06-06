@@ -1,0 +1,8 @@
+defaults:
+  - dataset: cifar100
+  - arch: mobilenet_cifar_std
+  - ensemble: ensemble_params
+  - quantization: qunatization_params
+  - training: training_params
+params:
+  data_path: /media/erez/Media/repos/neuralQuantizer/data

@@ -1,0 +1,5 @@
+arch:
+  name: mobilenet
+  width: 0.5
+  pretrained: False
+  mobilenet_setup: CIFAR

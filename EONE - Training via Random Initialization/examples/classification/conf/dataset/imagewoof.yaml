@@ -1,0 +1,3 @@
+dataset:
+  name: imagewoof
+  num_classes: 10

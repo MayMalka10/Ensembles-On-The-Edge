@@ -1,0 +1,16 @@
+training:
+  #pre_trained_path: '/media/erez/Media/repos/neuralQuantizer/examples/classification/outputs/2022-02-20/13-32-32/cifar100_mobilenet_n_embed-4096_part_idx-1_commitment_w-0.1_skip-True_n_ensemble-3/default/version_0/checkpoints/epoch=79-step=31279.ckpt'
+#  pre_trained_path: /media/erez/Media/repos/neuralQuantizer/examples/classification/outputs/2022-02-21/19-56-11/imagewoof_mobilenet_n_embed-4096_part_idx-1_commitment_w-0.1_skip-True_n_ensemble-3/default/version_0/checkpoints/epoch=159-step=22719.ckpt
+  pre_trained_path: null
+  num_workers: 8
+  batch_size: 64
+  lr: 1e-4
+  num_epochs: 320
+  
+training_debug:
+  #pre_trained_path: '/media/erez/Media/repos/neuralQuantizer/examples/classification/outputs/2022-02-20/13-32-32/cifar100_mobilenet_n_embed-4096_part_idx-1_commitment_w-0.1_skip-True_n_ensemble-3/default/version_0/checkpoints/epoch=79-step=31279.ckpt'
+  pre_trained_path: null
+  num_workers: 0
+  batch_size: 8
+  lr: 1e-4
+  num_epochs: 85

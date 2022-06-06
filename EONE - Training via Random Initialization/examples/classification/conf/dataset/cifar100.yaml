@@ -1,0 +1,3 @@
+dataset:
+  name: cifar100
+  num_classes: 100

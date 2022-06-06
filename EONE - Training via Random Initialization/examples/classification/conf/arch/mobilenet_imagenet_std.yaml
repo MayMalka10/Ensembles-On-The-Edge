@@ -1,0 +1,4 @@
+arch:
+  name: mobilenet
+  width: 1.0
+  mobilenet_setup: IMAGENET

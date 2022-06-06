@@ -1,0 +1,4 @@
+# @package _group_
+arch: "hard-net-split"
+loss: "hard-net-split"
+split: 1

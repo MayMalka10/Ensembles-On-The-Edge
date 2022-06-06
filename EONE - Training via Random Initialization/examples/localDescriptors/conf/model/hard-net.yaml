@@ -1,0 +1,3 @@
+# @package _group_
+arch: "hard-net"
+loss: "hard-net"

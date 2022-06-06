@@ -1,0 +1,3 @@
+dataset:
+  name: imagenet
+  num_classes: 1000
