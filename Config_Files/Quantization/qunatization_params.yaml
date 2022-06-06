@@ -1,0 +1,5 @@
+Quantization:
+  n_embed: 1024
+  n_parts: 2
+  part_idx: 1
+  commitment_w: 0.1
