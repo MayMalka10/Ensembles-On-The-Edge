@@ -17,9 +17,6 @@ is_debug = sys.gettrace() is not None
 
 @hydra.main(config_path="Config_Files", config_name="config")
 def train(cfg: DictConfig) -> None:
-    '''
-    TODO: This Function is responsible for the training process, all changes should be done in the config files
-    '''
 
     ## creates headline with the current data ###
     log_dir_name = f"{cfg.Dataset.Dataset.name}_{cfg.Architecture.Architecture.name}_" \
