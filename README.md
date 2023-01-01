@@ -1,5 +1,7 @@
 ## Decentralized Low-Latency Collaborative Inference on the Edge
 
+![](images/CIFAR10_AccVsNP.png)
+
 Performing Edge Ensembles via Bagging & Random Noise Initializations:
 
 1. The *Config_files* folder comprised of all the setting for running the code:
