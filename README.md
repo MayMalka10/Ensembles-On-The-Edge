@@ -16,7 +16,9 @@ Performing Edge Ensembles via Bagging & Random Noise Initializations:
      batch_size: size_of_batch
      
      
-2. The Archs folder comprised of all the setting for running the code:
+2. The *Archs* folder comprised of all the setting for running the code:
 
    - In the folder can be found two different architectures: MobileNetV2 and ResNet18.
    - Each one can be selected in the main.py file via the imports section.
+
+
