@@ -2,7 +2,7 @@
 
 Performing Edge Ensembles via Bagging & Random Noise Initializations:
 
-1. The Config_files folder comprised of all the setting for running the code:
+1. The *Config_files* folder comprised of all the setting for running the code:
   
    - To select number of participating users, go to Ensemble/ensemble_params.yaml, change the value in:
      n_ensemble: num_of_users
